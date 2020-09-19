@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-size: 15;
+    background-color:rgb(251, 250, 248);
+    font-family: Abel;
+    width: 1440px;
+   
+}
+.titulo{text-align: center;
+    font-size:15px ;
+margin-top: 0%;
+color:#E6E6FA ;}
+
+.t1{margin-bottom: 0%;
+        font-size: 1.5rem;
+        text-align: center;
+    color: #A3A5AE}
+
+.t2{margin-top: 0%;
+    font-size: 1.5rem;
+color: #4C4E61}
+
+.frase{ font-size:15px ;
+        color: #A3A5AE}
+
+
+        a:hover {
+            text-decoration:none;
+            color: #767c83;
+            opacity: 65%;
+        }
+
+#title{
+    margin-bottom: 15%;
+}
+
+#gal4x4 img{
+    width: 100%;
+    height: 100%;
+	margin: 5px;
+    padding: 15px;
+     
+}
+
+.np{
+    padding: 0px;
+    }
+    
+    a:hover {
+        text-decoration:none;
+        color: #767c83;
+        opacity: 65%;
+        font-size: large;
+    }
